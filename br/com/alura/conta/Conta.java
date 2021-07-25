@@ -36,7 +36,7 @@ public abstract class Conta implements Comparable<Conta> {
     }
     
     /**
-     * Construtor alterantivo. Cliente será atribuído em outro momento
+     * Construtor alternativo. Cliente será atribuído em outro momento
      * @param int agencia
      * Código de agência
      * @param int numero da conta

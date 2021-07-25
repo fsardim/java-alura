@@ -4,6 +4,12 @@ import java.util.Comparator;
 
 import br.com.alura.conta.Conta;
 
+
+/**
+ * @author Felipe Sardim
+ * @version 1.0.0
+ * Classe com sobrecarga do método compare, da interface Comparator, por meio do número da conta
+ */
 public class NumeroDaContaComparator implements Comparator<Conta> {
 
 	@Override
